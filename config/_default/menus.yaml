@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 43de67a8-08a9-4b91-a7f4-9ebc59d29c08
+  name: MIT Climate Primer website
+  pageRef: /external-resources/mit-climate-primer-website_43de67a8-08a9-4b91-a7f4-9ebc59d29c08
+  weight: 10
+- identifier: 0df31b2d-1de8-4a4a-ba48-5a972927a044
+  name: Introduction Video
+  pageRef: /resources/climate-primer-total_v8_mp4
+  weight: 20
