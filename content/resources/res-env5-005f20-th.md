@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-env-005-climate-science-risk-solutions-a-climate-primer/87ffee562b7128446476354cc616c3df_RES-ENV5-005f20-th.png
 file_size: 16574
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: MIT's Climate Primer website summarizes the most important lines of evidence
     for human-caused climate change. (Image courtesy of Kerry Emanuel. CC BY-NC-SA).
